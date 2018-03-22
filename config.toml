@@ -7,17 +7,17 @@ paginate = 10
 #disqusShortname = "spf13"
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hugo-minimalist-theme"
+theme = "hugo-minimalistic-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "FF"
+    site_description = "Die HugoSite"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "Die HugoSite"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
