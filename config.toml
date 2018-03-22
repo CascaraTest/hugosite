@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Super Site"
+title = "Meine HugoSite"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -35,5 +35,5 @@ theme = "hugo-minimalist-theme"
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "cascara_ch"
+    github    = "digitalcraftsman"
     gplus     = ""
