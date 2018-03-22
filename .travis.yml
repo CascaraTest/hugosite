@@ -1,0 +1,10 @@
+languague: go
+install:
+- go get -v github.com/CascaraTest/hugosite
+script:
+- hugo version
+- make build
+branches:
+ only:
+ - master
+ 
