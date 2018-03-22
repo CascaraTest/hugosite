@@ -1,6 +1,6 @@
 build:
 	rm -rf public
-	hugo
+	hugosite
 	
 deploy: build
 	aws s3 sync public/ s3://www.imquartier.live --acl public-read --delete
